@@ -17,6 +17,19 @@ header a.btn-burger{
     font-size: 32px;
     display: block;
     text-align: center;
-    margin: 0 auto;
-
+    margin: 0 auto 30px;
+    border-radius: 5px;
 }
+
+header li{
+    background-color: #63645d;
+    margin-bottom: 2px;
+    padding: 10px 0;
+    text-align: center;
+}
+
+header li a{
+    color:  #FFFFFF;
+    text-transform: uppercase;
+}
+

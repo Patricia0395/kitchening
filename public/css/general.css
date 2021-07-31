@@ -12,3 +12,7 @@ a{
 li{
     list-style: none;
 }
+
+:root{
+    --colorGris : '#63645d';
+}

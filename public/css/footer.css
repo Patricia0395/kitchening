@@ -13,8 +13,8 @@ footer li{
         color:  #FFFFFF;
         text-transform: uppercase;
     }
-    
-   /* @media (min-width: 1024px) {
+   /*desktop*/ 
+   @media (min-width: 1024px) {
         footer{
             padding: 40px;
             background-color:#b71e15;
@@ -26,9 +26,10 @@ footer li{
         footer li{
             background: none;
             display: inline-block;
-            border-radius: 1px solid #ffff;
-       padding: 5px, 10px;
+            border-right: 1px solid #ffff;
+            padding: 5px, 10px;
         }
+       
         footer li:last-child{
             border-radius: none;
         }
@@ -36,4 +37,4 @@ footer li{
             text-transform: capitalize;
         }
     }
-    */
+    
